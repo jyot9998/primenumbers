@@ -8,7 +8,7 @@
 		<version>2.2.7.RELEASE</version>
 		<relativePath/>
 	</parent>
-	<groupId>com.jyot.prime</groupId>
+	<groupId>com.jyotsingh.prime</groupId>
 	<artifactId>primenumbers</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>primenumbers</name>
